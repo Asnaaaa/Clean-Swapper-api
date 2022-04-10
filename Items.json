@@ -1,0 +1,19 @@
+{
+    "Cosmetics": [
+        {
+          "itemtype": "skin",
+          "name": "Aura To Fresh Aura",
+          "icon": "https://static.wikia.nocookie.net/fortnite/images/5/5e/Fresh_Aura_-_Outfit_-_Fortnite.png/revision/latest/scale-to-width-down/512?cb=20210919025042.png",
+          "swapicon": "https://image.fnbr.co/outfit/5cd21c0554152f62c950e5e3/icon.png",
+          "pak": "https://cdn.discordapp.com/attachments/877168909722193933/877178537562505236/pakchunkFreshAura-WindowsClient.pak",
+          "paknumber": "FreshAura"
+      },
+      {
+        "itemtype": "skin",
+        "name": "Harley Quinn",
+        "icon": "https://cdn.discordapp.com/attachments/891773411720851497/896743326726909962/Untitled-2.png",
+        "swapicon": "https://image.fnbr.co/outfit/5e3a8ba665b8c11684cd30ba/icon_192.png",
+        "pak": "https://cdn.discordapp.com/attachments/751157146082738289/854325032209612880/pakchunkDemiQuinn-WindowsClient.pak",
+        "paknumber": "DemiQuinn"
+      },
+}
